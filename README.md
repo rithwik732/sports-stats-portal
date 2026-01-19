@@ -1,1 +1,3 @@
-# sports-stats-portal
+# Sports Stats Portal
+
+Deployable Next.js app.
